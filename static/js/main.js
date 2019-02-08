@@ -77,6 +77,8 @@
         return false;
       });
 
+      $("canvas").css("width","100%").css("height", "100vh")
+
   });      
 
 }(jQuery));
