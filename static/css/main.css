@@ -2235,3 +2235,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #fff;
   border-color: #fff;
 }
+
+
+.projects {
+    background-color: #fff;
+    margin-bottom: 1vh;
+
+}
